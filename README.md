@@ -39,7 +39,8 @@ Panduan ini disusun untuk:
 - [🔍 Quality Assurance (QA)](docs/qa.md)
 - [🧠 UI/UX Designer](docs/uiux.md)
 - [🧪 DevOps Engineer](docs/devops.md)
+- [📔 Glosarium Umum](docs/glosarium-umum.md)
 
 ---
 
-Untuk kontribusi terhadap dokumentasi ini, silakan buat pull request atau diskusikan melalui GitHub Issues.
+Untuk kontribusi terhadap doku mentasi ini, silakan buat pull request atau diskusikan melalui GitHub Issues.
