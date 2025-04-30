@@ -68,3 +68,30 @@ PM bukan coder, tapi harus cukup paham teknologi untuk memahami tantangan tim de
 
 Semoga panduan ini membantumu memahami peran penting Project Manager. Ingat, keberhasilan proyek bukan soal siapa yang paling cepat coding, tapi siapa yang bisa menyatukan tim untuk bergerak serentak. 💪
 ```
+## 📚 Glosarium Istilah & Tools
+
+**Agile** – Metode kerja pengembangan perangkat lunak berbasis iterasi cepat dan feedback rutin.
+
+**Scrum** – Framework Agile yang menggunakan sprint (periode waktu tertentu, biasanya 1-2 minggu) untuk menyelesaikan pekerjaan.
+
+**Kanban** – Sistem visualisasi pekerjaan dengan papan dan kartu (biasanya dalam kolom "To Do", "In Progress", "Done").
+
+**Backlog** – Daftar semua pekerjaan, fitur, atau task yang harus dikerjakan dalam sebuah proyek.
+
+**Sprint Planning** – Pertemuan untuk merencanakan task apa saja yang akan dikerjakan selama sprint.
+
+**Stand-Up Meeting (Daily)** – Pertemuan singkat harian (biasanya 15 menit) untuk update progres, hambatan, dan rencana hari ini.
+
+**Gantt Chart** – Diagram batang yang menggambarkan timeline proyek, tugas, dan durasinya.
+
+**Scope Creep** – Penambahan fitur/tugas di luar rencana awal tanpa menyesuaikan waktu/tim.
+
+**Notion/Trello/Jira** – Tools populer untuk manajemen tugas dan proyek berbasis papan (board) dan kartu (card).
+
+**Stakeholder** – Pihak yang berkepentingan dengan hasil proyek (misalnya klien, pengguna, manajer).
+
+**Resource Planning** – Perencanaan penggunaan waktu, tenaga, dan alat yang dimiliki tim untuk proyek.
+
+**Issue** – Masalah atau task yang dicatat di sistem manajemen proyek (sering digunakan di GitHub/Jira).
+
+**Timeline** – Jadwal waktu pelaksanaan dan deadline dari pekerjaan dalam proyek.
