@@ -1,5 +1,5 @@
 # 📘 Panduan Internal Tim - LEX DEV
-
+ 
 Selamat datang di dokumentasi internal LEX DEV! 🎉
 
 Dokumen ini dirancang sebagai panduan utama bagi semua anggota tim pengembang LEX DEV, dari pemula hingga senior. Panduan ini akan membantu memahami peran masing-masing, standar kerja tim, serta keterampilan teknis dan non-teknis yang dibutuhkan untuk berkontribusi secara efektif.
