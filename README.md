@@ -48,11 +48,11 @@ Berikut adalah panduan fundamental yang direkomendasikan untuk melengkapi dokume
 ### 1. 📖 Fundamentals / Basics
 Dasar teknis dan prinsip penting yang harus dikuasai oleh semua developer:
 
-- [Git & Version Control](docs/fundamentals/git-workflow.md)
-- [Struktur Project & Arsitektur](docs/fundamentals/project-structure.md)
-- [Standar Coding & Best Practices](docs/fundamentals/coding-standards.md)
-- [Desain Database & Normalisasi](docs/fundamentals/database-design.md)
-- [RESTful API & GraphQL Fundamentals](docs/fundamentals/api-design.md)
+- [Git & Version Control](docs/fundamentals/git_workflow.md)
+- [Struktur Project & Arsitektur](docs/fundamentals/project_structure.md)
+- [Standar Coding & Best Practices](docs/fundamentals/coding_standards.md)
+- [Desain Database & Normalisasi](docs/fundamentals/database_design.md)
+- [RESTful API & GraphQL Fundamentals](docs/fundamentals/api_design.md)
 
 
 ### 2. 🔧 Development Process
