@@ -46,11 +46,11 @@ Panduan ini disusun untuk:
 Berikut adalah panduan fundamental yang direkomendasikan untuk melengkapi dokumentasi tim LEX DEV:
 
 ### 1. 📖 **Fundamentals/Basics**
-- `docs/fundamentals/git-workflow.md` - Git & Version Control
-- `docs/fundamentals/project-structure.md` - Struktur Project & Arsitektur
-- `docs/fundamentals/coding-standards.md` - Standar Coding & Best Practices
-- `docs/fundamentals/database-design.md` - Desain Database & Normalisasi
-- `docs/fundamentals/api-design.md` - RESTful API & GraphQL Fundamentals
+- [Git & Version Control](docs/fundamentals/git-workflow.md)
+- [Struktur Project & Arsitektur](docs/fundamentals/project-structure.md)
+- [Standar Coding & Best Practices](docs/fundamentals/coding-standards.md)
+- [Desain Database & Normalisasi](docs/fundamentals/database-design.md)
+- [RESTful API & GraphQL Fundamentals](docs/fundamentals/api-design.md)
 
 ### 2. 🔧 **Development Process**
 - `docs/process/agile-scrum.md` - Metodologi Agile & Scrum
