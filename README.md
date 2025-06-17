@@ -41,6 +41,45 @@ Panduan ini disusun untuk:
 - [🧪 DevOps Engineer](docs/devops.md)
 - [📔 Glosarium Umum](docs/glosarium-umum.md)
 
+## 📁 Struktur Panduan Fundamental
+
+Berikut adalah panduan fundamental yang direkomendasikan untuk melengkapi dokumentasi tim LEX DEV:
+
+### 1. 📖 **Fundamentals/Basics**
+- `docs/fundamentals/git-workflow.md` - Git & Version Control
+- `docs/fundamentals/project-structure.md` - Struktur Project & Arsitektur
+- `docs/fundamentals/coding-standards.md` - Standar Coding & Best Practices
+- `docs/fundamentals/database-design.md` - Desain Database & Normalisasi
+- `docs/fundamentals/api-design.md` - RESTful API & GraphQL Fundamentals
+
+### 2. 🔧 **Development Process**
+- `docs/process/agile-scrum.md` - Metodologi Agile & Scrum
+- `docs/process/code-review.md` - Proses Code Review
+- `docs/process/testing-strategy.md` - Strategi Testing (Unit, Integration, E2E)
+- `docs/process/deployment-cycle.md` - Siklus Deployment & CI/CD
+- `docs/process/documentation.md` - Standar Dokumentasi
+
+### 3. 🏗️ **Architecture & Design**
+- `docs/architecture/system-design.md` - Prinsip System Design
+- `docs/architecture/microservices.md` - Microservices vs Monolith
+- `docs/architecture/design-patterns.md` - Design Patterns yang Umum Digunakan
+- `docs/architecture/scalability.md` - Scalability & Performance
+- `docs/architecture/security.md` - Security Fundamentals
+
+### 4. 🛠️ **Tools & Technologies**
+- `docs/tools/development-environment.md` - Setup Development Environment
+- `docs/tools/debugging.md` - Debugging Techniques
+- `docs/tools/monitoring.md` - Monitoring & Logging
+- `docs/tools/collaboration.md` - Tools Kolaborasi Tim
+
+### 5. 💡 **Soft Skills & Communication**
+- `docs/soft-skills/communication.md` - Effective Communication
+- `docs/soft-skills/problem-solving.md` - Problem Solving Framework
+- `docs/soft-skills/time-management.md` - Time Management & Prioritization
+- `docs/soft-skills/learning-path.md` - Continuous Learning
+
+
+
 ---
 
 Untuk kontribusi terhadap doku mentasi ini, silakan buat pull request atau diskusikan melalui GitHub Issues.
