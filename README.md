@@ -45,38 +45,52 @@ Panduan ini disusun untuk:
 
 Berikut adalah panduan fundamental yang direkomendasikan untuk melengkapi dokumentasi tim LEX DEV:
 
-### 1. 📖 **Fundamentals/Basics**
+### 1. 📖 Fundamentals / Basics
+Dasar teknis dan prinsip penting yang harus dikuasai oleh semua developer:
+
 - [Git & Version Control](docs/fundamentals/git-workflow.md)
 - [Struktur Project & Arsitektur](docs/fundamentals/project-structure.md)
 - [Standar Coding & Best Practices](docs/fundamentals/coding-standards.md)
 - [Desain Database & Normalisasi](docs/fundamentals/database-design.md)
 - [RESTful API & GraphQL Fundamentals](docs/fundamentals/api-design.md)
 
-### 2. 🔧 **Development Process**
-- `docs/process/agile-scrum.md` - Metodologi Agile & Scrum
-- `docs/process/code-review.md` - Proses Code Review
-- `docs/process/testing-strategy.md` - Strategi Testing (Unit, Integration, E2E)
-- `docs/process/deployment-cycle.md` - Siklus Deployment & CI/CD
-- `docs/process/documentation.md` - Standar Dokumentasi
 
-### 3. 🏗️ **Architecture & Design**
-- `docs/architecture/system-design.md` - Prinsip System Design
-- `docs/architecture/microservices.md` - Microservices vs Monolith
-- `docs/architecture/design-patterns.md` - Design Patterns yang Umum Digunakan
-- `docs/architecture/scalability.md` - Scalability & Performance
-- `docs/architecture/security.md` - Security Fundamentals
+### 2. 🔧 Development Process
+Proses kerja tim development yang efisien, kolaboratif, dan berkualitas:
 
-### 4. 🛠️ **Tools & Technologies**
-- `docs/tools/development-environment.md` - Setup Development Environment
-- `docs/tools/debugging.md` - Debugging Techniques
-- `docs/tools/monitoring.md` - Monitoring & Logging
-- `docs/tools/collaboration.md` - Tools Kolaborasi Tim
+- [Agile & Scrum](docs/process/agile-scrum.md)
+- [Proses Code Review](docs/process/code-review.md)
+- [Strategi Testing (Unit, Integration, E2E)](docs/process/testing-strategy.md)
+- [Siklus Deployment & CI/CD](docs/process/deployment-cycle.md)
+- [Standar Dokumentasi](docs/process/documentation.md)
 
-### 5. 💡 **Soft Skills & Communication**
-- `docs/soft-skills/communication.md` - Effective Communication
-- `docs/soft-skills/problem-solving.md` - Problem Solving Framework
-- `docs/soft-skills/time-management.md` - Time Management & Prioritization
-- `docs/soft-skills/learning-path.md` - Continuous Learning
+
+### 3. 🏗️ Architecture & Design
+Landasan arsitektur sistem modern, scalable, dan maintainable:
+
+- [Prinsip System Design](docs/architecture/system-design.md)
+- [Microservices vs Monolith](docs/architecture/microservices.md)
+- [Design Patterns Umum](docs/architecture/design-patterns.md)
+- [Scalability & Performance](docs/architecture/scalability.md)
+- [Security Fundamentals](docs/architecture/security.md)
+
+
+### 4. 🛠️ Tools & Technologies
+Toolset penting untuk development yang produktif, aman, dan terukur:
+
+- [Setup Development Environment](docs/tools/development-environment.md)
+- [Debugging Techniques](docs/tools/debugging.md)
+- [Monitoring & Logging](docs/tools/monitoring.md)
+- [Tools Kolaborasi Tim](docs/tools/collaboration.md)
+
+
+### 5. 💡 Soft Skills & Communication
+Kemampuan non-teknis yang krusial untuk performa tim dan individu:
+
+- [Effective Communication](docs/soft-skills/communication.md)
+- [Problem Solving Framework](docs/soft-skills/problem-solving.md)
+- [Time Management & Prioritization](docs/soft-skills/time-management.md)
+- [Continuous Learning](docs/soft-skills/learning-path.md)
 
 
 
